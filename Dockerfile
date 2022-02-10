@@ -1,4 +1,4 @@
-FROM JMTHON-AR/JM-THON:alpine
+FROM telethon-Mohamed/README:alpine
 
 #clonning repo 
 RUN git clone https://github.com/telethon-Mohamed/README.git /root/userbot
